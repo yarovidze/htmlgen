@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email       = ["cant1987m@gmail.com"]
   s.files       = ["lib/htmlgen.rb"]
   s.homepage    =
-      'https://github.com/yarovidze/RubyHW'
+      'https://github.com/yarovidze/htmlgen'
   s.license       = 'MIT'
 end
